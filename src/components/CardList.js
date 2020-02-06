@@ -14,6 +14,7 @@ const CardList = ({ robots }) => {
           />
         })
       }
+      <h1>Hello Gorgeous</h1>
     </div>
   );
 }
